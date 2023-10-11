@@ -11,4 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## About Me
 
-I am a ametaur mahjong player.
+I am a amateur mahjong player.
