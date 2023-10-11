@@ -11,5 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## About Me
 
-I'm an indoor guy who completely fell in love with scuba diving last summer. I've got an open-water diving licence. And planning to get the advance licence after graduating from UCSB.
+I'm an indoor guy who completely fell in love with scuba diving last summer. I've got an open-water diving licence. And planning to get the advance licence after graduating from UCSB. My friend Ryan need a new laptop.
 
