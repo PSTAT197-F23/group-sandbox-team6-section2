@@ -1,0 +1,15 @@
+---
+title: "About me"
+author: "Aaron Lee (3410388)"
+date: "2023-10-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Me
+
+I'm an indoor guy who completely fell in love with scuba diving last summer. I've got an open-water diving licence. And planning to get the advance licence after graduating from UCSB.
+
