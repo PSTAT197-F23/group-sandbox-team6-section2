@@ -1,0 +1,9 @@
+---
+title: "jimmydysart-about.md"
+author: "Jimmy Dysart"
+date: '`r Sys.Date()`'
+output: html_document
+---
+
+## About Me
+# I was born in Connecticut.
