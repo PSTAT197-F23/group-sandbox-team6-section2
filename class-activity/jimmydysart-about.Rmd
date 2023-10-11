@@ -7,3 +7,4 @@ output: html_document
 
 ## About Me
 # I was born in Connecticut.
+How would you describe Connecticut in three words?
